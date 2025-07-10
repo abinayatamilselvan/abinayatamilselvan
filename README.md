@@ -34,13 +34,6 @@ Welcome to my GitHub! I'm a Cloud and DevOps enthusiast passionate about Infrast
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abinayatamilselvan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinayatamilselvan&layout=compact&theme=radical)
-
----
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abinaya-tamilselvan)
